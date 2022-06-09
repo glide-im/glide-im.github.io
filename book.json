@@ -1,0 +1,45 @@
+{
+    "author": "dengzi",
+    "output": null,
+    "generator": "site",
+    "title": "Glide Document",
+    "description": "Glide Document",
+    "isbn": "",
+    "extension": null,
+    "plugins": [
+        "toggle-chapters",
+        "disqus"
+    ],
+    "pluginsConfig": {
+        "fontSettings": {
+            "theme": "sepia",
+            "family": "serif",
+            "size": 1
+        },
+        "disqus": {
+            "shortName": "glidedocument"
+        }
+    },
+    "variables": {},
+    "links": {
+        "sidebar": {
+            "Glide": "https://github.com/glide-im"
+        },
+        "sharing": {
+            "all": null
+        }
+    },
+    "pdf": {
+        "pageNumbers": false,
+        "fontSize": 12,
+        "paperSize": "a4",
+        "margin": {
+            "right": 62,
+            "left": 62,
+            "top": 36,
+            "bottom": 36
+        },
+        "headerTemplate": null,
+        "footerTemplate": null
+    }
+}
