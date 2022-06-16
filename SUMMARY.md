@@ -1,5 +1,8 @@
 # SUMMARY
 
+* [快速部署](fast_deploye/README.md)
+  * [IM 服务 + HTTP API](fast_deploye/im-api.md)
+  * [IM 服务 + HTTP API + Auth 服务](fast_deploye/im-api-auth.md)
 * [Glide Core](glide/README.md)
   * [Gate](glide/gate.md)
   * [Messaging](glide/messaging.md)
